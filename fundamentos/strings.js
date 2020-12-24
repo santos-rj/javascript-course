@@ -9,6 +9,7 @@ console.log(escola.substring(1))
 console.log(escola.substring(1, 10))
 
 console.log('Escola '.concat(escola).concat('!'))
+console.log('Escola ' + escola + '!')
 console.log(escola.replace(/\w/g, 'MK'))
 
 console.log('Felipe, Luiz, Pedro'.split(','))
