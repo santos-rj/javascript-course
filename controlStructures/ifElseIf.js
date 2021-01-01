@@ -14,7 +14,6 @@ const showResult = function (value) {
     } else {
         console.log('Nota inválida!')
     }
-    console.log('Fim')
 }
 
 showResult(10)
